@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ringing"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-ALT",
+			"indices": [],
+			"name": "silence"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blackoutphone",
+	"position": [
+		-149,
+		-1500
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-50,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

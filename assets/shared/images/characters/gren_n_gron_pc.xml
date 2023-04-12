@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gren n gron pc.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pc idle0000" x="5920" y="2840" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc idle0001" x="5920" y="2840" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc idle0002" x="5920" y="2840" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc idle0003" x="5920" y="2840" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc idle0004" x="6658" y="2840" width="740" height="687"/>
+	<SubTexture name="pc idle0005" x="6658" y="2840" width="740" height="687"/>
+	<SubTexture name="pc idle0006" x="5920" y="2840" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc idle0007" x="5920" y="2840" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc idle0008" x="5920" y="2840" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc idle0009" x="5920" y="2840" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc idle0010" x="6658" y="2840" width="740" height="687"/>
+	<SubTexture name="pc idle0011" x="6658" y="2840" width="740" height="687"/>
+	<SubTexture name="pc left0000" x="7398" y="2840" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc left0001" x="0" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc left0002" x="738" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc left0003" x="1476" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc left0004" x="2214" y="3527" width="740" height="687"/>
+	<SubTexture name="pc left0005" x="2214" y="3527" width="740" height="687"/>
+	<SubTexture name="pc left0006" x="1476" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc left0007" x="1476" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc left0008" x="2954" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc left0009" x="2954" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc left0010" x="2214" y="3527" width="740" height="687"/>
+	<SubTexture name="pc left0011" x="2214" y="3527" width="740" height="687"/>
+	<SubTexture name="pc down0000" x="0" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc down0001" x="738" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc down0002" x="1476" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc down0003" x="2214" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc down0004" x="2952" y="0" width="740" height="687"/>
+	<SubTexture name="pc down0005" x="2952" y="0" width="740" height="687"/>
+	<SubTexture name="pc down0006" x="2214" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc down0007" x="2214" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc down0008" x="2214" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc down0009" x="2214" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc down0010" x="2952" y="0" width="740" height="687"/>
+	<SubTexture name="pc down0011" x="2952" y="0" width="740" height="687"/>
+	<SubTexture name="pc up 0000" x="2218" y="4214" width="738" height="743" frameX="-2" frameY="-60" frameWidth="740" frameHeight="804"/>
+	<SubTexture name="pc up 0001" x="2956" y="4214" width="738" height="739" frameX="-2" frameY="-64" frameWidth="740" frameHeight="804"/>
+	<SubTexture name="pc up 0002" x="3694" y="4214" width="738" height="775" frameX="-2" frameY="-28" frameWidth="740" frameHeight="804"/>
+	<SubTexture name="pc up 0003" x="4432" y="4214" width="738" height="793" frameX="-2" frameY="-10" frameWidth="740" frameHeight="804"/>
+	<SubTexture name="pc up 0004" x="5170" y="4214" width="740" height="804"/>
+	<SubTexture name="pc up 0005" x="5910" y="4214" width="740" height="799" frameX="0" frameY="-5" frameWidth="740" frameHeight="804"/>
+	<SubTexture name="pc up 0006" x="6650" y="4214" width="738" height="796" frameX="-2" frameY="-7" frameWidth="740" frameHeight="804"/>
+	<SubTexture name="pc up 0007" x="6650" y="4214" width="738" height="796" frameX="-2" frameY="-7" frameWidth="740" frameHeight="804"/>
+	<SubTexture name="pc up 0008" x="6650" y="4214" width="738" height="796" frameX="-2" frameY="-7" frameWidth="740" frameHeight="804"/>
+	<SubTexture name="pc up 0009" x="6650" y="4214" width="738" height="796" frameX="-2" frameY="-7" frameWidth="740" frameHeight="804"/>
+	<SubTexture name="pc up 0010" x="5910" y="4214" width="740" height="799" frameX="0" frameY="-5" frameWidth="740" frameHeight="804"/>
+	<SubTexture name="pc up 0011" x="5910" y="4214" width="740" height="799" frameX="0" frameY="-5" frameWidth="740" frameHeight="804"/>
+	<SubTexture name="pc right0000" x="5170" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc right0001" x="5908" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc right0002" x="6646" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc right0003" x="6646" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc right0004" x="7384" y="3527" width="740" height="687"/>
+	<SubTexture name="pc right0005" x="0" y="4214" width="740" height="687"/>
+	<SubTexture name="pc right0006" x="6646" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc right0007" x="6646" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc right0008" x="6646" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc right0009" x="6646" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc right0010" x="0" y="4214" width="740" height="687"/>
+	<SubTexture name="pc right0011" x="0" y="4214" width="740" height="687"/>
+	<SubTexture name="pc miss left0000" x="3692" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss left0001" x="3692" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss left0002" x="3692" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss left0003" x="3692" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss left0004" x="4430" y="3527" width="740" height="687"/>
+	<SubTexture name="pc miss left0005" x="4430" y="3527" width="740" height="687"/>
+	<SubTexture name="pc miss left0006" x="3692" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss left0007" x="3692" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss left0008" x="3692" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss left0009" x="3692" y="3527" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss left0010" x="4430" y="3527" width="740" height="687"/>
+	<SubTexture name="pc miss left0011" x="4430" y="3527" width="740" height="687"/>
+	<SubTexture name="pc miss down0000" x="3692" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss down0001" x="3692" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss down0002" x="3692" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss down0003" x="3692" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss down0004" x="4430" y="0" width="740" height="687"/>
+	<SubTexture name="pc miss down0005" x="4430" y="0" width="740" height="687"/>
+	<SubTexture name="pc miss down0006" x="3692" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss down0007" x="3692" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss down0008" x="3692" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss down0009" x="3692" y="0" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss down0010" x="4430" y="0" width="740" height="687"/>
+	<SubTexture name="pc miss down0011" x="4430" y="0" width="740" height="687"/>
+	<SubTexture name="pc miss up0000" x="7388" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss up0001" x="7388" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss up0002" x="7388" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss up0003" x="7388" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss up0004" x="0" y="5018" width="740" height="687"/>
+	<SubTexture name="pc miss up0005" x="0" y="5018" width="740" height="687"/>
+	<SubTexture name="pc miss up0006" x="7388" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss up0007" x="7388" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss up0008" x="7388" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss up0009" x="7388" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss up0010" x="0" y="5018" width="740" height="687"/>
+	<SubTexture name="pc miss up0011" x="0" y="5018" width="740" height="687"/>
+	<SubTexture name="pc miss right0000" x="740" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss right0001" x="740" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss right0002" x="740" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss right0003" x="740" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss right0004" x="1478" y="4214" width="740" height="687"/>
+	<SubTexture name="pc miss right0005" x="1478" y="4214" width="740" height="687"/>
+	<SubTexture name="pc miss right0006" x="740" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss right0007" x="740" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss right0008" x="740" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss right0009" x="740" y="4214" width="738" height="683" frameX="-2" frameY="-3" frameWidth="740" frameHeight="687"/>
+	<SubTexture name="pc miss right0010" x="1478" y="4214" width="740" height="687"/>
+	<SubTexture name="pc miss right0011" x="1478" y="4214" width="740" height="687"/>
+	<SubTexture name="pc break0000" x="5170" y="0" width="738" height="684" frameX="-16" frameY="-278" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0001" x="5908" y="0" width="738" height="684" frameX="-16" frameY="-278" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0002" x="5908" y="0" width="738" height="684" frameX="-16" frameY="-278" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0003" x="6646" y="0" width="730" height="710" frameX="-31" frameY="-248" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0004" x="6646" y="0" width="730" height="710" frameX="-31" frameY="-248" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0005" x="7376" y="0" width="761" height="669" frameX="0" frameY="-295" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0006" x="7376" y="0" width="761" height="669" frameX="0" frameY="-295" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0007" x="0" y="710" width="748" height="681" frameX="-11" frameY="-280" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0008" x="0" y="710" width="748" height="681" frameX="-11" frameY="-280" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0009" x="748" y="710" width="744" height="685" frameX="-13" frameY="-276" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0010" x="748" y="710" width="744" height="685" frameX="-13" frameY="-276" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0011" x="1492" y="710" width="740" height="687" frameX="-15" frameY="-274" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0012" x="1492" y="710" width="740" height="687" frameX="-15" frameY="-274" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0013" x="1492" y="710" width="740" height="687" frameX="-15" frameY="-274" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0014" x="1492" y="710" width="740" height="687" frameX="-15" frameY="-274" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0015" x="2232" y="710" width="737" height="683" frameX="-15" frameY="-274" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0016" x="2232" y="710" width="737" height="683" frameX="-15" frameY="-274" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0017" x="1492" y="710" width="740" height="687" frameX="-15" frameY="-274" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0018" x="1492" y="710" width="740" height="687" frameX="-15" frameY="-274" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0019" x="2969" y="710" width="737" height="703" frameX="-15" frameY="-254" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0020" x="3706" y="710" width="737" height="740" frameX="-15" frameY="-217" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0021" x="4443" y="710" width="737" height="776" frameX="-15" frameY="-181" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0022" x="5180" y="710" width="737" height="812" frameX="-15" frameY="-145" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0023" x="5917" y="710" width="740" height="852" frameX="-15" frameY="-109" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0024" x="6657" y="710" width="740" height="889" frameX="-15" frameY="-72" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0025" x="7397" y="710" width="737" height="921" frameX="-15" frameY="-36" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0026" x="0" y="1631" width="737" height="957" frameX="-15" frameY="0" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc break0027" x="737" y="1631" width="737" height="951" frameX="-15" frameY="-6" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc retry loop0000" x="1474" y="1631" width="737" height="951" frameX="0" frameY="0" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0001" x="1474" y="1631" width="737" height="951" frameX="0" frameY="0" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0002" x="1474" y="1631" width="737" height="951" frameX="0" frameY="0" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0003" x="2211" y="1631" width="740" height="952" frameX="0" frameY="-3" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0004" x="2211" y="1631" width="740" height="952" frameX="0" frameY="-3" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0005" x="2211" y="1631" width="740" height="952" frameX="0" frameY="-3" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0006" x="2951" y="1631" width="737" height="945" frameX="0" frameY="-6" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0007" x="2951" y="1631" width="737" height="945" frameX="0" frameY="-6" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0008" x="2951" y="1631" width="737" height="945" frameX="0" frameY="-6" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0009" x="3688" y="1631" width="740" height="949" frameX="0" frameY="-6" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0010" x="3688" y="1631" width="740" height="949" frameX="0" frameY="-6" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0011" x="3688" y="1631" width="740" height="949" frameX="0" frameY="-6" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0012" x="2951" y="1631" width="737" height="945" frameX="0" frameY="-6" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0013" x="2951" y="1631" width="737" height="945" frameX="0" frameY="-6" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0014" x="2951" y="1631" width="737" height="945" frameX="0" frameY="-6" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0015" x="2211" y="1631" width="740" height="952" frameX="0" frameY="-3" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0016" x="2211" y="1631" width="740" height="952" frameX="0" frameY="-3" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0017" x="2211" y="1631" width="740" height="952" frameX="0" frameY="-3" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0018" x="1474" y="1631" width="737" height="951" frameX="0" frameY="0" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0019" x="1474" y="1631" width="737" height="951" frameX="0" frameY="0" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc retry loop0020" x="1474" y="1631" width="737" height="951" frameX="0" frameY="0" frameWidth="740" frameHeight="955"/>
+	<SubTexture name="pc restart0000" x="4428" y="1631" width="1119" height="859" frameX="0" frameY="-350" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0001" x="5547" y="1631" width="737" height="1209" frameX="-187" frameY="0" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0002" x="6284" y="1631" width="737" height="705" frameX="-187" frameY="-504" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0003" x="7021" y="1631" width="740" height="687" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0004" x="7021" y="1631" width="740" height="687" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0005" x="0" y="2840" width="737" height="683" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0006" x="0" y="2840" width="737" height="683" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0007" x="0" y="2840" width="737" height="683" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0008" x="0" y="2840" width="737" height="683" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0009" x="1492" y="710" width="740" height="687" frameX="-187" frameY="-526" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0010" x="1492" y="710" width="740" height="687" frameX="-187" frameY="-526" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0011" x="2232" y="710" width="737" height="683" frameX="-187" frameY="-526" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0012" x="2232" y="710" width="737" height="683" frameX="-187" frameY="-526" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0013" x="1492" y="710" width="740" height="687" frameX="-187" frameY="-526" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0014" x="1492" y="710" width="740" height="687" frameX="-187" frameY="-526" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0015" x="1492" y="710" width="740" height="687" frameX="-187" frameY="-526" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0016" x="1492" y="710" width="740" height="687" frameX="-187" frameY="-526" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0017" x="748" y="710" width="744" height="685" frameX="-185" frameY="-528" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0018" x="748" y="710" width="744" height="685" frameX="-185" frameY="-528" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0019" x="0" y="710" width="748" height="681" frameX="-183" frameY="-532" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0020" x="0" y="710" width="748" height="681" frameX="-183" frameY="-532" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0021" x="737" y="2840" width="761" height="669" frameX="-172" frameY="-547" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0022" x="737" y="2840" width="761" height="669" frameX="-172" frameY="-547" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0023" x="6646" y="0" width="730" height="710" frameX="-203" frameY="-500" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0024" x="6646" y="0" width="730" height="710" frameX="-203" frameY="-500" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0025" x="5908" y="0" width="738" height="684" frameX="-188" frameY="-530" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0026" x="5908" y="0" width="738" height="684" frameX="-188" frameY="-530" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0027" x="5170" y="0" width="738" height="684" frameX="-188" frameY="-530" frameWidth="761" frameHeight="964"/>
+	<SubTexture name="pc restart0028" x="1498" y="2840" width="737" height="683" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0029" x="2235" y="2840" width="737" height="683" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0030" x="2972" y="2840" width="737" height="683" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0031" x="3709" y="2840" width="737" height="683" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0032" x="4446" y="2840" width="737" height="683" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+	<SubTexture name="pc restart0033" x="5183" y="2840" width="737" height="683" frameX="-187" frameY="-526" frameWidth="1119" frameHeight="1216"/>
+</TextureAtlas>

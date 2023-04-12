@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dawko idle"
+		},
+		{
+			"offsets": [
+				10,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left pose dawko"
+		},
+		{
+			"offsets": [
+				50,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dawko down pose"
+		},
+		{
+			"offsets": [
+				150,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dawko up poser"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dawko right pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dawko_in_fnf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dawko",
+	"flip_x": false,
+	"healthbar_colors": [
+		156,
+		78,
+		203
+	],
+	"camera_position": [
+		400,
+		-50
+	],
+	"sing_duration": 6.2,
+	"scale": 1
+}

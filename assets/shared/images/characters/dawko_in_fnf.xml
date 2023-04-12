@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dawko in fnf.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dawko down pose0000" x="0" y="0" width="785" height="634" frameX="0" frameY="-125" frameWidth="785" frameHeight="759"/>
+	<SubTexture name="dawko down pose0001" x="0" y="0" width="785" height="634" frameX="0" frameY="-125" frameWidth="785" frameHeight="759"/>
+	<SubTexture name="dawko down pose0002" x="785" y="0" width="643" height="759" frameX="-70" frameY="0" frameWidth="785" frameHeight="759"/>
+	<SubTexture name="dawko down pose0003" x="785" y="0" width="643" height="759" frameX="-70" frameY="0" frameWidth="785" frameHeight="759"/>
+	<SubTexture name="dawko down pose0004" x="1428" y="0" width="687" height="731" frameX="-48" frameY="-28" frameWidth="785" frameHeight="759"/>
+	<SubTexture name="dawko down pose0005" x="1428" y="0" width="687" height="731" frameX="-48" frameY="-28" frameWidth="785" frameHeight="759"/>
+	<SubTexture name="dawko down pose0006" x="2115" y="0" width="674" height="738" frameX="-54" frameY="-21" frameWidth="785" frameHeight="759"/>
+	<SubTexture name="dawko down pose0007" x="2115" y="0" width="674" height="738" frameX="-54" frameY="-21" frameWidth="785" frameHeight="759"/>
+	<SubTexture name="dawko idle0000" x="2789" y="0" width="609" height="799" frameX="-1" frameY="-12" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko idle0001" x="2789" y="0" width="609" height="799" frameX="-1" frameY="-12" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko idle0002" x="3398" y="0" width="608" height="806" frameX="-5" frameY="-36" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko idle0003" x="3398" y="0" width="608" height="806" frameX="-5" frameY="-36" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko idle0004" x="4006" y="0" width="608" height="812" frameX="-6" frameY="-38" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko idle0005" x="4006" y="0" width="608" height="812" frameX="-6" frameY="-38" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko idle0006" x="4006" y="0" width="608" height="812" frameX="-6" frameY="-38" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko idle0007" x="4614" y="0" width="598" height="812" frameX="0" frameY="0" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko idle0008" x="4614" y="0" width="598" height="812" frameX="0" frameY="0" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko idle0009" x="4614" y="0" width="598" height="812" frameX="0" frameY="0" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko idle0010" x="2789" y="0" width="609" height="799" frameX="-1" frameY="-12" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko idle0011" x="2789" y="0" width="609" height="799" frameX="-1" frameY="-12" frameWidth="614" frameHeight="850"/>
+	<SubTexture name="dawko right pose0000" x="5212" y="0" width="735" height="744" frameX="-8" frameY="-16" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko right pose0001" x="5212" y="0" width="735" height="744" frameX="-8" frameY="-16" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko right pose0002" x="5947" y="0" width="738" height="690" frameX="-2" frameY="-71" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko right pose0003" x="5947" y="0" width="738" height="690" frameX="-2" frameY="-71" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko right pose0004" x="6685" y="0" width="712" height="760" frameX="-1" frameY="0" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko right pose0005" x="6685" y="0" width="712" height="760" frameX="-1" frameY="0" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko right pose0006" x="7397" y="0" width="714" height="749" frameX="0" frameY="-11" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko right pose0007" x="7397" y="0" width="714" height="749" frameX="0" frameY="-11" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko right pose0008" x="0" y="812" width="714" height="756" frameX="-1" frameY="-4" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko right pose0009" x="0" y="812" width="714" height="756" frameX="-1" frameY="-4" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko right pose0010" x="714" y="812" width="712" height="756" frameX="-1" frameY="-4" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko right pose0011" x="714" y="812" width="712" height="756" frameX="-1" frameY="-4" frameWidth="743" frameHeight="761"/>
+	<SubTexture name="dawko up poser0000" x="1426" y="812" width="665" height="1003" frameX="-143" frameY="0" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="dawko up poser0001" x="1426" y="812" width="665" height="1003" frameX="-143" frameY="0" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="dawko up poser0002" x="2091" y="812" width="951" height="521" frameX="0" frameY="-474" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="dawko up poser0003" x="2091" y="812" width="951" height="521" frameX="0" frameY="-474" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="dawko up poser0004" x="3042" y="812" width="740" height="837" frameX="-105" frameY="-164" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="dawko up poser0005" x="3042" y="812" width="740" height="837" frameX="-105" frameY="-164" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="dawko up poser0006" x="3042" y="812" width="740" height="837" frameX="-105" frameY="-164" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="dawko up poser0007" x="3782" y="812" width="772" height="803" frameX="-89" frameY="-197" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="dawko up poser0008" x="3782" y="812" width="772" height="803" frameX="-89" frameY="-197" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="dawko up poser0009" x="3782" y="812" width="772" height="803" frameX="-89" frameY="-197" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="dawko up poser0010" x="4554" y="812" width="740" height="833" frameX="-105" frameY="-167" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="dawko up poser0011" x="4554" y="812" width="740" height="833" frameX="-105" frameY="-167" frameWidth="951" frameHeight="1003"/>
+	<SubTexture name="left pose dawko0000" x="5294" y="812" width="564" height="836" frameX="0" frameY="0" frameWidth="581" frameHeight="836"/>
+	<SubTexture name="left pose dawko0001" x="5294" y="812" width="564" height="836" frameX="0" frameY="0" frameWidth="581" frameHeight="836"/>
+	<SubTexture name="left pose dawko0002" x="5294" y="812" width="564" height="836" frameX="0" frameY="0" frameWidth="581" frameHeight="836"/>
+	<SubTexture name="left pose dawko0003" x="5858" y="812" width="555" height="816" frameX="-26" frameY="-20" frameWidth="581" frameHeight="836"/>
+	<SubTexture name="left pose dawko0004" x="5858" y="812" width="555" height="816" frameX="-26" frameY="-20" frameWidth="581" frameHeight="836"/>
+	<SubTexture name="left pose dawko0005" x="6413" y="812" width="548" height="821" frameX="-22" frameY="-15" frameWidth="581" frameHeight="836"/>
+	<SubTexture name="left pose dawko0006" x="6413" y="812" width="548" height="821" frameX="-22" frameY="-15" frameWidth="581" frameHeight="836"/>
+	<SubTexture name="left pose dawko0007" x="6961" y="812" width="547" height="820" frameX="-25" frameY="-16" frameWidth="581" frameHeight="836"/>
+	<SubTexture name="left pose dawko0008" x="6961" y="812" width="547" height="820" frameX="-25" frameY="-16" frameWidth="581" frameHeight="836"/>
+	<SubTexture name="left pose dawko0009" x="6961" y="812" width="547" height="820" frameX="-25" frameY="-16" frameWidth="581" frameHeight="836"/>
+</TextureAtlas>

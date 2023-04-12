@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				256,
+				411
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				420,
+				415
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				250,
+				325
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				250,
+				525
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				180,
+				420
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/rabbit",
+	"position": [
+		300,
+		400
+	],
+	"healthicon": "whiterabbit",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		254,
+		254
+	],
+	"camera_position": [
+		-250,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
