@@ -1,0 +1,50 @@
+{
+	"storyName": "fnf",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Guy",
+			"gren",
+			[
+				181,
+				230,
+				29
+			]
+		],
+		[
+			"Lurking",
+			"whiterabbit",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Lore",
+			"dawko",
+			[
+				156,
+				78,
+				203
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Green Shithead Week idk",
+	"hiddenUntilUnlocked": false
+}

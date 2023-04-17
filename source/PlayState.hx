@@ -509,6 +509,12 @@ class PlayState extends MusicBeatState
 
 		switch (curStage)
 		{
+			case 'grenstage':
+				var grenstage:BGSprite = new BGSprite('grenstage', -400, -220, 1.3, 1.3);
+				grenstage.scale.set(1.3, 1.3);
+				grenstage.antialiasing = true;
+				add(grenstage);
+
 			case 'stage': //Week 1
 				var bg:BGSprite = new BGSprite('stageback', -600, -200, 0.9, 0.9);
 				add(bg);
