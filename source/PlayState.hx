@@ -510,9 +510,9 @@ class PlayState extends MusicBeatState
 		switch (curStage)
 		{
 			case 'grenstage':
-				var grenstage:BGSprite = new BGSprite('grenstage', -400, -220, 1.3, 1.3);
+				var grenstage:BGSprite = new BGSprite('grenstage', -280, -220, 1.0, 1.0);
 				grenstage.scale.set(1.3, 1.3);
-				grenstage.antialiasing = true;
+				grenstage.antialiasing = false;
 				add(grenstage);
 
 			case 'stage': //Week 1
@@ -1153,7 +1153,7 @@ class PlayState extends MusicBeatState
 		reloadHealthBarColors();
 
 		scoreTxt = new FlxText(0, healthBarBG.y + 36, FlxG.width, "", 20);
-		scoreTxt.setFormat(Paths.font("vcr.ttf"), 20, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		scoreTxt.setFormat(Paths.font("vcr.ttf"), 20, FlxColor.fromRGB(dad.healthColorArray[0], dad.healthColorArray[1], dad.healthColorArray[2]), CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		scoreTxt.scrollFactor.set();
 		scoreTxt.borderSize = 1.25;
 		scoreTxt.visible = !ClientPrefs.hideHud;
