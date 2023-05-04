@@ -510,10 +510,26 @@ class PlayState extends MusicBeatState
 		switch (curStage)
 		{
 			case 'grenstage':
-				var grenstage:BGSprite = new BGSprite('grenstage', -280, -220, 1.0, 1.0);
+				var grenstage:BGSprite = new BGSprite('grenstage', -180, -150, 1.0, 1.0);
 				grenstage.scale.set(1.3, 1.3);
 				grenstage.antialiasing = false;
 				add(grenstage);
+
+			case 'lurking':
+				var lurkinggrade:BGSprite = new BGSprite('lurkinggrade', -661, -354, 1.0, 1.0);
+				lurkinggrade.scale.set(1.3, 1.3);
+				lurkinggrade.antialiasing = false;
+				add(lurkinggrade);
+
+				var lurkingpillars:BGSprite = new BGSprite('lurkingpillars', -642, -194, 0.5, 0.5);
+				lurkingpillars.scale.set(1.3, 1.3);
+				lurkingpillars.antialiasing = false;
+				add(lurkingpillars);
+
+				var lurkingstage:BGSprite = new BGSprite('lurkingstage', -623, -35, 1.0, 1.0);
+				lurkingstage.scale.set(1.3, 1.3);
+				lurkingstage.antialiasing = false;
+				add(lurkingstage);
 
 			case 'stage': //Week 1
 				var bg:BGSprite = new BGSprite('stageback', -600, -200, 0.9, 0.9);
