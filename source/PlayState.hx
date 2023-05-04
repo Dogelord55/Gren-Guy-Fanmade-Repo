@@ -534,6 +534,32 @@ class PlayState extends MusicBeatState
 				lurkingstage.antialiasing = false;
 				add(lurkingstage);
 
+			case 'poopin_shittin':
+				var outsidehallway:BGSprite = new BGSprite('outsidehallway', -328, -122, 1.0, 1.0);
+				outsidehallway.scale.set(1.0, 1.0);
+				outsidehallway.antialiasing = false;
+				add(outsidehallway);
+
+				var insidewalls:BGSprite = new BGSprite('insidewalls', -328, -122, 1.0, 1.0);
+				insidewalls.scale.set(1.0, 1.0);
+				insidewalls.antialiasing = false;
+				add(insidewalls);
+
+				var tableclutterback:BGSprite = new BGSprite('tableclutterback', -328, -122, 1.0, 1.0);
+				tableclutterback.scale.set(1.0, 1.0);
+				tableclutterback.antialiasing = false;
+				add(tableclutterback);
+
+				var tableclutterfront:BGSprite = new BGSprite('tableclutterfront', -328, -122, 1.0, 1.0);
+				tableclutterfront.scale.set(1.0, 1.0);
+				tableclutterfront.antialiasing = false;
+				add(tableclutterfront);
+
+				var insidewalls_closed:BGSprite = new BGSprite('insidewalls_closed', -328, -122, 1.0, 1.0);
+				insidewalls_closed.scale.set(1.0, 1.0);
+				insidewalls_closed.antialiasing = false;
+				add(insidewalls_closed);
+
 			case 'stage': //Week 1
 				var bg:BGSprite = new BGSprite('stageback', -600, -200, 0.9, 0.9);
 				add(bg);
