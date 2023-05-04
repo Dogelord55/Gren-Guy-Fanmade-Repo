@@ -316,6 +316,9 @@ class PlayState extends MusicBeatState
 	private var keysArray:Array<Dynamic>;
 	private var controlArray:Array<String>;
 
+	public var useDirectionalCamera:Bool = true;
+	public var focusedCharacter:Character;
+
 	var precacheList:Map<String, String> = new Map<String, String>();
 	
 	// stores the last judgement object
@@ -516,18 +519,18 @@ class PlayState extends MusicBeatState
 				add(grenstage);
 
 			case 'lurking':
-				var lurkinggrade:BGSprite = new BGSprite('lurkinggrade', -661, -354, 1.0, 1.0);
-				lurkinggrade.scale.set(1.3, 1.3);
+				var lurkinggrade:BGSprite = new BGSprite('lurkinggrade', -661, -54, 1.0, 1.0);
+				lurkinggrade.scale.set(1.1, 1.1);
 				lurkinggrade.antialiasing = false;
 				add(lurkinggrade);
 
-				var lurkingpillars:BGSprite = new BGSprite('lurkingpillars', -642, -194, 0.5, 0.5);
-				lurkingpillars.scale.set(1.3, 1.3);
+				var lurkingpillars:BGSprite = new BGSprite('lurkingpillars', -861, -54, 0.5, 0.5);
+				lurkingpillars.scale.set(1.1, 1.1);
 				lurkingpillars.antialiasing = false;
 				add(lurkingpillars);
 
-				var lurkingstage:BGSprite = new BGSprite('lurkingstage', -623, -35, 1.0, 1.0);
-				lurkingstage.scale.set(1.3, 1.3);
+				var lurkingstage:BGSprite = new BGSprite('lurkingstage', -661, -54, 1.0, 1.0);
+				lurkingstage.scale.set(1.1, 1.1);
 				lurkingstage.antialiasing = false;
 				add(lurkingstage);
 
@@ -3031,6 +3034,26 @@ class PlayState extends MusicBeatState
 				}
 		}
 
+		var charAnimOffsetX:Float = 0;
+		var charAnimOffsetY:Float = 0;
+		if(useDirectionalCamera){
+			if(focusedCharacter!=null){
+				if(focusedCharacter.animation.curAnim!=null){
+					switch (focusedCharacter.animation.curAnim.name.substring(4)){
+						case 'UP' | 'UP-alt' | 'UP-F' | 'UPmiss':
+							charAnimOffsetY -= 15;
+						case 'DOWN' | 'DOWN-alt' | 'DOWN-F' | 'DOWNmiss':
+							charAnimOffsetY += 15;
+						case 'LEFT' | 'LEFT-alt' | 'LEFT-F' | 'LEFTmiss':
+							charAnimOffsetX -= 15;
+						case 'RIGHT' | 'RIGHT-alt' | 'RIGHT-F' | 'RIGHTmiss':
+							charAnimOffsetX += 15;
+					}
+				}
+			}
+		}
+
+
 		if(!inCutscene) {
 			var lerpVal:Float = CoolUtil.boundTo(elapsed * 2.4 * cameraSpeed * playbackRate, 0, 1);
 			camFollowPos.setPosition(FlxMath.lerp(camFollowPos.x, camFollow.x, lerpVal), FlxMath.lerp(camFollowPos.y, camFollow.y, lerpVal));
@@ -3845,11 +3868,13 @@ class PlayState extends MusicBeatState
 
 		if (!SONG.notes[curSection].mustHitSection)
 		{
+			if(focusedCharacter!=dad)
 			moveCamera(true);
 			callOnLuas('onMoveCamera', ['dad']);
 		}
 		else
 		{
+			if(focusedCharacter!=boyfriend)
 			moveCamera(false);
 			callOnLuas('onMoveCamera', ['boyfriend']);
 		}
@@ -3860,6 +3885,7 @@ class PlayState extends MusicBeatState
 	{
 		if(isDad)
 		{
+			focusedCharacter=dad;
 			camFollow.set(dad.getMidpoint().x + 150, dad.getMidpoint().y - 100);
 			camFollow.x += dad.cameraPosition[0] + opponentCameraOffset[0];
 			camFollow.y += dad.cameraPosition[1] + opponentCameraOffset[1];
@@ -3867,6 +3893,7 @@ class PlayState extends MusicBeatState
 		}
 		else
 		{
+			focusedCharacter=boyfriend;
 			camFollow.set(boyfriend.getMidpoint().x - 100, boyfriend.getMidpoint().y - 100);
 			camFollow.x -= boyfriend.cameraPosition[0] - boyfriendCameraOffset[0];
 			camFollow.y += boyfriend.cameraPosition[1] + boyfriendCameraOffset[1];
