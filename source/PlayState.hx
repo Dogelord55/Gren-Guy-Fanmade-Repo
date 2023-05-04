@@ -92,8 +92,8 @@ class PlayState extends MusicBeatState
 		['Coolio', 0.8], //From 70% to 79%
 		['Radical', 0.9], //From 80% to 89%
 		['Spectacular!', 1], //From 90% to 99%
-		['Grenin' Out!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
-	];
+		['Grenin Out!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
+		];
 
 	//event variables
 	private var isCameraOnForcedPos:Bool = false;
@@ -524,7 +524,7 @@ class PlayState extends MusicBeatState
 				lurkinggrade.antialiasing = false;
 				add(lurkinggrade);
 
-				var lurkingpillars:BGSprite = new BGSprite('lurkingpillars', -861, -54, 0.5, 0.5);
+				var lurkingpillars:BGSprite = new BGSprite('lurkingpillars', -661, -54, 0.5, 0.5);
 				lurkingpillars.scale.set(1.1, 1.1);
 				lurkingpillars.antialiasing = false;
 				add(lurkingpillars);
