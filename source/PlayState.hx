@@ -83,16 +83,16 @@ class PlayState extends MusicBeatState
 	public static var STRUM_X_MIDDLESCROLL = -278;
 
 	public static var ratingStuff:Array<Dynamic> = [
-		['You Suck!', 0.2], //From 0% to 19%
-		['Shit', 0.4], //From 20% to 39%
-		['Bad', 0.5], //From 40% to 49%
-		['Bruh', 0.6], //From 50% to 59%
-		['Meh', 0.69], //From 60% to 68%
-		['Nice', 0.7], //69%
-		['Good', 0.8], //From 70% to 79%
-		['Great', 0.9], //From 80% to 89%
-		['Sick!', 1], //From 90% to 99%
-		['Perfect!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
+		['KYS!', 0.2], //From 0% to 19%
+		['Louder Buzzer', 0.4], //From 20% to 39%
+		['Loud Buzzer', 0.5], //From 40% to 49%
+		['Bruj', 0.6], //From 50% to 59%
+		['Oof', 0.69], //From 60% to 68%
+		['Grice', 0.7], //69%
+		['Coolio', 0.8], //From 70% to 79%
+		['Radical', 0.9], //From 80% to 89%
+		['Spectacular!', 1], //From 90% to 99%
+		['Grenin' Out!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
 	];
 
 	//event variables
@@ -3056,7 +3056,7 @@ class PlayState extends MusicBeatState
 
 		if(!inCutscene) {
 			var lerpVal:Float = CoolUtil.boundTo(elapsed * 2.4 * cameraSpeed * playbackRate, 0, 1);
-			camFollowPos.setPosition(FlxMath.lerp(camFollowPos.x, camFollow.x, lerpVal), FlxMath.lerp(camFollowPos.y, camFollow.y, lerpVal));
+			camFollowPos.setPosition(FlxMath.lerp(camFollowPos.x, camFollow.x + charAnimOffsetX, lerpVal), FlxMath.lerp(camFollowPos.y, camFollow.y + charAnimOffsetY, lerpVal));
 			if(!startingSong && !endingSong && boyfriend.animation.curAnim != null && boyfriend.animation.curAnim.name.startsWith('idle')) {
 				boyfriendIdleTime += elapsed;
 				if(boyfriendIdleTime >= 0.15) { // Kind of a mercy thing for making the achievement easier to get as it's apparently frustrating to some playerss
